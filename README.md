@@ -7,7 +7,7 @@ Tecnologia que usaremos :
 
 - HTML
 - CSS
-    -Sass
+    - Sass
 - JavaScript
     - Liberias
         - ChartJS
